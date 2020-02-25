@@ -1,0 +1,7 @@
+{
+    "name": "swuuws/swuuws",
+    "description": "Swuuws is a lightweight and easy to use PHP framework",
+    "require": {
+        "php": ">=5.6.0"
+    }
+}
