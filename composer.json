@@ -7,6 +7,11 @@
         "swuuws"
     ],
 	"license": "MIT",
+	"homepage": "http://swuuws.com",
+	"support": {
+        "issues": "https://github.com/swuuws/swuuws/issues",
+        "source": "https://github.com/swuuws/swuuws"
+    },
     "require": {
         "php": ">=5.6.0",
 		"swuuws/framework": "*",
