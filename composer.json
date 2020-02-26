@@ -14,7 +14,7 @@
     },
     "require": {
         "php": ">=5.6.0",
-		"swuuws/framework": "dev-master",
+		"swuuws/framework": "@dev",
     },
 	"autoload": {
         "psr-4": {
