@@ -12,6 +12,7 @@
         "issues": "https://github.com/swuuws/swuuws/issues",
         "source": "https://github.com/swuuws/swuuws"
     },
+	"minimum-stability": "dev",
     "require": {
         "php": ">=5.6.0",
 		"swuuws/framework": "@dev",
