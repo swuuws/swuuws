@@ -1,26 +1,26 @@
 {
     "name": "swuuws/swuuws",
-	"type": "project",
+    "type": "project",
     "description": "Swuuws is a lightweight and easy to use PHP framework",
-	"keywords": [
+    "keywords": [
         "framework",
         "swuuws"
     ],
-	"license": "MIT",
-	"homepage": "http://swuuws.com",
-	"support": {
+    "license": "MIT",
+    "homepage": "http://swuuws.com",
+    "support": {
         "issues": "https://github.com/swuuws/swuuws/issues",
         "source": "https://github.com/swuuws/swuuws"
     },
-	"minimum-stability": "dev",
+    "minimum-stability": "dev",
     "require": {
         "php": ">=5.6.0",
-		"swuuws/framework": ">=1.0"
+        "swuuws/framework": ">=1.0"
     },
-	"require-dev": {
-		"swuuws/framework": ">=1.0@dev"
+    "require-dev": {
+        "swuuws/framework": ">=1.0@dev"
     },
-	"autoload": {
+    "autoload": {
         "psr-4": {
             "app\\": "app/"
         }
