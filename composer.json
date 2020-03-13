@@ -14,7 +14,11 @@
     },
 	"minimum-stability": "dev",
     "require": {
-        "php": ">=5.6.0"
+        "php": ">=5.6.0",
+		"swuuws/framework": "@dev"
+    },
+	"require-dev": {
+		"swuuws/framework": "@dev"
     },
 	"autoload": {
         "psr-4": {
