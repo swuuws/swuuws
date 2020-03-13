@@ -23,7 +23,7 @@
     "autoload": {
         "psr-4": {
             "app\\": "app/controller/",
-            "extend\\": "app/extend/",
+            "extend\\": "app/extend/"
         }
     },
     "autoload-dev": {
