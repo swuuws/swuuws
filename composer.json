@@ -25,6 +25,7 @@
             "app\\": "app/controller/",
             "model\\": "app/model/",
             "extend\\": "app/extend/"
+            "plugins\\": "app/plugins/"
         }
     },
     "autoload-dev": {
