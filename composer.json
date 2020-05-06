@@ -24,7 +24,7 @@
         "psr-4": {
             "app\\": "app/controller/",
             "model\\": "app/model/",
-            "extend\\": "app/extend/"
+            "extend\\": "app/extend/",
             "plugins\\": "app/plugins/"
         }
     },
