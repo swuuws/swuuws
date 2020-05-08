@@ -12,7 +12,7 @@ Swuuws is accessible, powerful, can quickly build projects, and easy to maintain
 
 ## Installation
 
-composer create-project swuuws/swuuws swuuws
+> composer create-project swuuws/swuuws swuuws
 
 ## Security Vulnerabilities
 
