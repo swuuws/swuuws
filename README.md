@@ -20,4 +20,4 @@ If you discover a security vulnerability within Swuuws, please send an e-mail to
 
 ## License
 
-The Swuuws framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The Swuuwss framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
