@@ -8,7 +8,7 @@ Swuuws is a fast web application framework with expressive, concise, and elegant
 - Multi-language support
 - Good system architecture
 
-Swuuwss is accessible, powerful, can quickly build projects, and easy to maintain
+Swuuws is accessible, powerful, can quickly build projects, and easy to maintain
 
 ## Installation
 
@@ -20,4 +20,4 @@ If you discover a security vulnerability within Swuuws, please send an e-mail to
 
 ## License
 
-The Swuuwsss framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The Swuuws framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
