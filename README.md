@@ -8,7 +8,7 @@ Swuuws is a fast web application framework with expressive, concise, and elegant
 - Multi-language support
 - Good system architecture
 
-The Swuuws framework is accessible, powerful, can quickly build projects, and easy to maintain
+Swuuws is accessible, powerful, can quickly build projects, and easy to maintain
 
 ## Installation
 
