@@ -11,7 +11,7 @@ return [
      */
     'APP_DEBUG' => true,
     /**
-     * Routing method: automatic or manual.
+     * Routing method: automatic or manual or both.
      */
     'ROUTE_TYPE' => 'manual',
     /**
@@ -34,6 +34,10 @@ return [
      * Time zone.
      */
     'TIME_ZONE' => 'UTC',
+    /**
+     * Rewrite.
+     */
+    'OPENED_REWRITE' => 'auto',
     /**
      * Ways to log errors.
      */
@@ -66,6 +70,10 @@ return [
      * Whether to display the previous page and the next page.
      */
     'PAGINATE_PREV_NEXT' => true,
+    /**
+     * Whether to always show paging.
+     */
+    'PAGINATE_ALWAYS_SHOW' => false,
     /**
      * Way of caching.
      */
